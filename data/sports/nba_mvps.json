@@ -249,6 +249,14 @@
     "2017": {
       "name": "Russell Westbrook",
       "team": "Oklahoma City Thunder"
+    },
+    "2018": {
+      "name": "James Harden",
+      "team": "Houston Rockets"
+    },
+    "2019": {
+      "name": "Giannis Antetokounmpo",
+      "team": "Milwaukee Bucks"
     }
   }
 }
